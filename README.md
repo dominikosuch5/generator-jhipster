@@ -12,3 +12,5 @@ Please read our [guidelines](/CONTRIBUTING.md#submitting-an-issue) before submit
 [travis-url]: https://travis-ci.org/jhipster/generator-jhipster
 [daviddm-image]: https://david-dm.org/jhipster/generator-jhipster.svg?theme=shields.io
 [daviddm-url]: https://david-dm.org/jhipster/generator-jhipster
+
+test-docker-hub => webhook
